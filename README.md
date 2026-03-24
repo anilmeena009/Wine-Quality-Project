@@ -25,12 +25,5 @@ Open Jupyter Notebook
 Run all cells step by step
 Check model performance and visualizations
 
-Model Performance:-
-Accuracy: XX%
-Evaluation Metrics:
-Precision
-Recall
-F1-score
-
 
 
